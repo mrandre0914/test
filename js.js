@@ -1,1 +1,4 @@
-alert('hello world')
+let message  = "привіт всесвіт"
+console.log(
+    message
+)

@@ -1,1 +1,1 @@
-alert('Текст для виведення')
+alert('hello world')

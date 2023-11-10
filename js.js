@@ -1,4 +1,4 @@
-let message  = "привіт всесвіт"
+let message  = "привіт Богдане"
 console.log(
     message
 )
